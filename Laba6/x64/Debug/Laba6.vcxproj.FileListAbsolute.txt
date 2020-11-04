@@ -1,0 +1,2 @@
+D:\ad\Laba6\x64\Debug\Laba6.exe
+D:\ad\Laba6\x64\Debug\Laba6.pdb

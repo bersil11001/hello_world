@@ -1,0 +1,4 @@
+﻿  Laba6.cpp
+D:\ad\Laba6\Laba6.cpp(37,9): warning C4101: k: неиспользованная локальная переменная
+D:\ad\Laba6\Laba6.cpp(72,11): warning C4244: аргумент: преобразование "const time_t" в "unsigned int", возможна потеря данных
+  Laba6.vcxproj -> D:\ad\Laba6\x64\Debug\Laba6.exe
